@@ -205,7 +205,7 @@ This project includes:
 
 - Clone the repository
 
-  git clone https://github.com/yourusername/customer-shopping-behavior-analysis.git
+  git clone https://github.com/Shivani2114/customer-shopping-behavior-analysis.git
 
 - Install required Python libraries
 
